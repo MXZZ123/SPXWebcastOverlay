@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <AssemblyName>kOS.WCOL</AssemblyName>
+    <LangVersion>7.3</LangVersion>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <Version>1.0.0</Version>
+    <GenerateAssemblyTitleAttribute>false</GenerateAssemblyTitleAttribute><GenerateAssemblyDescriptionAttribute>false</GenerateAssemblyDescriptionAttribute>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.3" PrivateAssets="all" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="../refs/Assembly-CSharp.dll"><Private>false</Private></Reference>
+    <Reference Include="../refs/UnityEngine.dll"><Private>false</Private></Reference>
+    <Reference Include="../refs/UnityEngine.CoreModule.dll"><Private>false</Private></Reference>
+    <Reference Include="../refs_kos/kOS.dll"><Private>false</Private></Reference>
+    <Reference Include="../refs_kos/kOS.Safe.dll"><Private>false</Private></Reference>
+    <Reference Include="../src/bin/Release/SPXWebcastOverlay.dll"><Private>false</Private></Reference>
+  </ItemGroup>
+</Project>

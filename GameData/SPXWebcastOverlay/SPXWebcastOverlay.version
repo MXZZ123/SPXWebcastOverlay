@@ -1,0 +1,9 @@
+{
+  "NAME": "SPXWebcastOverlay",
+  "URL": "https://raw.githubusercontent.com/MXZZ123/SPXWebcastOverlay/main/GameData/SPXWebcastOverlay/SPXWebcastOverlay.version",
+  "DOWNLOAD": "https://github.com/MXZZ123/SPXWebcastOverlay/releases",
+  "VERSION": { "MAJOR": 1, "MINOR": 7, "PATCH": 0, "BUILD": 0 },
+  "KSP_VERSION": { "MAJOR": 1, "MINOR": 12, "PATCH": 5 },
+  "KSP_VERSION_MIN": { "MAJOR": 1, "MINOR": 12, "PATCH": 0 },
+  "KSP_VERSION_MAX": { "MAJOR": 1, "MINOR": 12, "PATCH": 99 }
+}

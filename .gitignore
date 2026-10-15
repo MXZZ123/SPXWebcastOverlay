@@ -1,0 +1,13 @@
+bin/
+obj/
+*.pdb
+*.user
+.vs/
+__pycache__/
+*.pyc
+refs/
+refs_kos/
+*.zip
+logs/
+GameData/SPXWebcastOverlay/PluginData/
+GameData/SPXWebcastOverlay/Plugins/*.dll
