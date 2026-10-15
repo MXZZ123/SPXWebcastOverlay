@@ -5,7 +5,7 @@ A Falcon 9 webcast-style telemetry overlay for **Kerbal Space Program 1.12.x**. 
 *Unofficial fan project. Not affiliated with or endorsed by SpaceX.*
 
 ## Screenshots
-_(placeholder — add images to `screenshots/` and link them here)_
+![SPX Webcast Overlay preview](screenshots/overlay_preview.png)
 
 ## Features
 - T-/T+ clock with configurable countdown start, hold at T-0, auto-zero on liftoff
