@@ -19,16 +19,12 @@ A Falcon 9 webcast-style telemetry overlay for **Kerbal Space Program 1.12.x**. 
 
 ## Requirements
 - KSP 1.12.x
-- [ToolbarController](https://github.com/linuxgurugamer/ToolbarControl) (CKAN: `ToolbarController`)
-- [ClickThroughBlocker](https://github.com/linuxgurugamer/ClickThroughBlocker) (CKAN: `ClickThroughBlocker`)
+- [ToolbarController](https://github.com/linuxgurugamer/ToolbarControl)
+- [ClickThroughBlocker](https://github.com/linuxgurugamer/ClickThroughBlocker)
 
 ### Recommended
-- **Tundra Exploration** (CKAN: `TundraExploration`) — the overlay works without it, but not properly: the ENGINES gauge has only been tested with the Tundra Falcon 9 booster.
-- **kOS** (CKAN: `kOS`) — optional, for scripting the clock.
-
-## Installation
-**CKAN:** search for *SPX Webcast Overlay*.
-**Manual:** download `SPXWebcastOverlay-<version>.zip` from Releases/SpaceDock and merge its `GameData` folder into your KSP `GameData`. You should end up with `GameData/SPXWebcastOverlay/`.
+- **Tundra Exploration** — the overlay works without it, but not properly: the ENGINES gauge has only been tested with the Tundra Falcon 9 booster.
+- **kOS** — optional, for scripting the clock.
 
 ## Usage
 Open settings from the toolbar button. In flight press **F2** to show the overlay. See `GameData/SPXWebcastOverlay/README.txt` for details and a kOS example.
