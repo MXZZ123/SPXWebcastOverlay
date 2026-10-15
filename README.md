@@ -23,7 +23,7 @@ A Falcon 9 webcast-style telemetry overlay for **Kerbal Space Program 1.12.x**. 
 - [ClickThroughBlocker](https://github.com/linuxgurugamer/ClickThroughBlocker) (CKAN: `ClickThroughBlocker`)
 
 ### Recommended
-- **Tundra Exploration** (CKAN: `TundraExploration`) — the overlay works without it, but not properly: the ENGINES gauge only appears for the Tundra Falcon 9 booster (or engines with matching engine modes).
+- **Tundra Exploration** (CKAN: `TundraExploration`) — the overlay works without it, but not properly: the ENGINES gauge has only been tested with the Tundra Falcon 9 booster.
 - **kOS** (CKAN: `kOS`) — optional, for scripting the clock.
 
 ## Installation
